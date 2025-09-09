@@ -1,0 +1,3 @@
+CREATE DATABASE demo;
+DROP DATABASE demo;
+
