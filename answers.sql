@@ -1,3 +1,6 @@
+-- Select the database
+USE salesDB;
+
 -- 1. Retrieve checkNumber, paymentDate, and amount from payments table
 SELECT checkNumber, paymentDate, amount
 FROM payments;
